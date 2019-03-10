@@ -1,0 +1,15 @@
+Préparation
+compte rendu pour les étapes Hand-On
+compte rendu expliquant les différents étapes de pipeline
+Implémenter de pipline(Tester)
+->installer Git Maven Docker Jenkins
+Les étapes:
+1-code avec maven (projet java maven sous IDE netbeans):
+add git puis commit
+push->demande au serveur->aller sur compte github 
+New repostory->creer-> prend URL et préciser dans netbeans (user pwd)
+(Demande un Merj)2-il va etre récupérer sous Git
+3-Installer jinkins ligne de commande d'installer Jinkins
+Lancement de serveur localhost:8080(9090!!)->connecter->nouveau Item->2éme gestion CS->copier URL de github
+->build->compiler/Save-> lancer le build-> consulte(code degit/générer et de fair->.jat)
+->table de bord->stable->succés
